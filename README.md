@@ -1,2 +1,2 @@
 # PROJECT-Music-Generation
-- only for piano
+Generate Music Of Piano using Deep Learning.
